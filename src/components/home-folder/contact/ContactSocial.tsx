@@ -24,9 +24,9 @@ const SocialLinks = () => {
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://linkedin.com/in/davttiw/",
+      url: "https://linkedin.com/in/davirandos/",
       color: "#0A66C2",
-      user: "@davttiw",
+      user: "@davirandos",
       badge: "💼",
       description:
       t("Modal.linkedin"),
@@ -34,22 +34,12 @@ const SocialLinks = () => {
     {
       name: "GitHub",
       icon: Github,
-      url: "https://github.com/davittiw",
+      url: "https://github.com/davirandos",
       color: "#7e22ce",
-      user: "@davittiw",
+      user: "@davirandos",
       badge: "🐙",
       description:
       t("Modal.github"),
-    },
-    {
-      name: "Dev Community",
-      icon: Github,
-      url: "https://dev.to/davittiw",
-      color: "#FFF",
-      user: "@davittiw",
-      badge: "👩‍💻",
-      description:
-      t("Modal.dev"),
     },
     {
       name: "E-mail",
